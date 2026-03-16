@@ -1,2 +1,2 @@
 # Customer-Shopping-Behavior-Analysis
-This project examines customer shopping behavior using transactional data from 3,900 purchases across multiple product categories. The objective is to identify insights related to spending patterns, customer segments, product preferences, and subscription trends in order to support informed strategic business decisions.
+This project leverages transactional data from 3,900 purchases to conduct a deep-dive analysis of customer behavior. By integrating Python, SQL, and Power BI, the study decodes spending patterns and identifies high-value customer segments. The ultimate goal is to transform raw product and subscription data into actionable insights that drive strategic business growth.
