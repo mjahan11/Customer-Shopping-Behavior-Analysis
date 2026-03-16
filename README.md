@@ -6,7 +6,7 @@ This project provides an end-to-end analysis of customer shopping behavior. The 
 
 ## 📊 Dataset
 
-* **Source:** []
+* **Source:** [https://raw.githubusercontent.com/mjahan11/Customer-Shopping-Behavior-Analysis/refs/heads/main/customer_shopping_behavior1.csv]
 * **Description:** Contains over [3900] records of customer transactions, including demographics, purchase history, item categories, and promotional data.
 * **Key Columns:** `Customer_ID`, `Age`, `Item_Purchased`, `Purchase_Amount`, `Discount_Applied`, and `Previous_Purchases`.
 
