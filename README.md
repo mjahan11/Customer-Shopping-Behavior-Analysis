@@ -4,7 +4,7 @@
 
 This project provides an end-to-end analysis of customer shopping behavior. The goal was to transform raw retail data into actionable insights by identifying purchasing patterns, discount effectiveness, and customer segmentation. The project spans the entire data lifecycle: **Data Cleaning (Python), Deep-Dive Analysis (SQL), and Interactive Visualization (Power BI).**
 
-<img width="1024" height="558" alt="image" src="https://github.com/user-attachments/assets/abd08f11-4087-4298-b8d4-954a9cdff57f" />
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/abd08f11-4087-4298-b8d4-954a9cdff57f" />
 
 
 ## 📊 Dataset
