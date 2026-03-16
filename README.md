@@ -52,14 +52,7 @@ This project provides an end-to-end analysis of customer shopping behavior. The 
 * **Insight 3:** <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/5a2dc7a4-2c7b-454e-ace7-9024bbfc80f3" />
 
 
-## 💻 How to Run
 
-1. **Clone the Repo:** `git clone https://github.com/yourusername/project-name.git`
-2. **Python Setup:** Run `pip install pandas matplotlib` and execute `cleaning_script.py`.
-3. **SQL Setup:** Run the scripts in the `/sql` folder to create tables and views.
-4. **Power BI:** Open the `.pbix` file to view the interactive dashboard.
-
----
 
 [Example: Best-selling products and categories]
 
