@@ -6,14 +6,14 @@ This project provides an end-to-end analysis of customer shopping behavior. The 
 
 ## 📊 Dataset
 
-* **Source:** [Link to dataset or name, e.g., Kaggle / Internal CSV]
-* **Description:** Contains over [Number] records of customer transactions, including demographics, purchase history, item categories, and promotional data.
+* **Source:** []
+* **Description:** Contains over [3900] records of customer transactions, including demographics, purchase history, item categories, and promotional data.
 * **Key Columns:** `Customer_ID`, `Age`, `Item_Purchased`, `Purchase_Amount`, `Discount_Applied`, and `Previous_Purchases`.
 
 ## 🛠️ Tech Stack
 
 * **Data Processing:** Python (Pandas, NumPy)
-* **Database:** SQL Server (T-SQL)
+* **Database:** SQL Server (MySQL)
 * **Visualization:** Power BI
 * **Reporting:** Gamma (AI-powered presentation), Microsoft PowerPoint
 
