@@ -60,8 +60,6 @@ This project provides an end-to-end analysis of customer shopping behavior. The 
 
 ---
 
-Would you like me to help you draft the "Executive Summary" slide content for your Gamma presentation?
-
 [Example: Best-selling products and categories]
 
 [Example: Seasonal sales patterns]
