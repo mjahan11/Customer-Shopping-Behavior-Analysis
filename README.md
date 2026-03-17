@@ -57,8 +57,8 @@ This project provides an end-to-end analysis of customer shopping behavior. The 
 
 
 
-[Example: Best-selling products and categories]
 
-[Example: Seasonal sales patterns]
 
-[Example: Customer segments with highest engagement]
+
+
+
