@@ -16,7 +16,7 @@ This project provides an end-to-end analysis of customer shopping behavior. The 
 ## 🛠️ Tech Stack
 
 * **Data Processing:** Python (Pandas, NumPy)
-* **Database:** SQL Server (MySQL)
+* **Database:** SQL Server (SQL)
 * **Visualization:** Power BI
 * **Reporting:** Gamma (AI-powered presentation), Microsoft PowerPoint
 
