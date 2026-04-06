@@ -22,7 +22,7 @@ This project provides an end-to-end analysis of customer shopping behavior. The 
 
 ## 🚀 Project Steps
 
-### 1. Data Cleaning & EDA (Python)
+### 1. Data Cleaning & Preparation(Python)
 
 * Handled missing values and standardized categorical strings.
 * Performed Exploratory Data Analysis (EDA) to detect outliers in purchase amounts.
