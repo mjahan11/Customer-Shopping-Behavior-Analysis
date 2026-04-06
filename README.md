@@ -24,8 +24,9 @@ This project provides an end-to-end analysis of customer shopping behavior. The 
 
 ### 1. Data Cleaning & Preparation(Python)
 
-* Handled missing values and standardized categorical strings.
-* Performed Exploratory Data Analysis (EDA) to detect outliers in purchase amounts.
+* Removing duplicates.
+* Removing nulls.
+* Dropping columns (Deciding which data is actually useful).
 * Exported cleaned data to `.csv` for database ingestion.
 
 ### 2. Database Management & Analysis (SQL)
