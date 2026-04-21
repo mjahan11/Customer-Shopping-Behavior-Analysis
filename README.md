@@ -51,15 +51,15 @@ This project provides an end-to-end analysis of customer shopping behavior. The 
 
 ##  Key Results
 
-*  1: Identified that "Backpacks" and "Clothing" categories have a 100% discount application rate, suggesting a need for pricing strategy review.
-* 2: Customers in the 25-35 age bracket contribute to 40% of total revenue.
+*  1 Identified that "Backpacks" and "Clothing" categories have a 100% discount application rate, suggesting a need for pricing strategy review.
+* 2 Customers in the 25-35 age bracket contribute to 40% of total revenue.
 
 ##	Business Recommendations:
-•	Increase Subscriptions – Promote exclusive benefits and incentives to encourage more customers to subscribe.
-•	Strengthen Customer Loyalty Programs – Reward repeat customers to help move them into the “Loyal” segment.
-•	Review Discount Strategy – Ensure discounts drive sales while maintaining healthy profit margins.
-•	Improve Product Positioning – Feature top-rated and best-selling products prominently in marketing campaigns.
-•	Implement Targeted Marketing – Direct marketing efforts toward high-revenue age groups and customers who prefer express shipping.
+*	Increase Subscriptions – Promote exclusive benefits and incentives to encourage more customers to subscribe.
+*	Strengthen Customer Loyalty Programs – Reward repeat customers to help move them into the “Loyal” segment.
+*	Review Discount Strategy – Ensure discounts drive sales while maintaining healthy profit margins.
+*	Improve Product Positioning – Feature top-rated and best-selling products prominently in marketing campaigns.
+*	Implement Targeted Marketing – Direct marketing efforts toward high-revenue age groups and customers who prefer express shipping.
 
 ## Power BI DashBoard:
  <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/5a2dc7a4-2c7b-454e-ace7-9024bbfc80f3" />
