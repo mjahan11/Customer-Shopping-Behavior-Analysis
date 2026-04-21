@@ -51,8 +51,8 @@ This project provides an end-to-end analysis of customer shopping behavior. The 
 
 ##  Key Results
 
-* **Insight 1:** Identified that "Backpacks" and "Clothing" categories have a 100% discount application rate, suggesting a need for pricing strategy review.
-* **Insight 2:** Customers in the 25-35 age bracket contribute to 40% of total revenue.
+*  1:** Identified that "Backpacks" and "Clothing" categories have a 100% discount application rate, suggesting a need for pricing strategy review.
+* 2:** Customers in the 25-35 age bracket contribute to 40% of total revenue.
 
 ##	Business Recommendations:
 •	Increase Subscriptions – Promote exclusive benefits and incentives to encourage more customers to subscribe.
