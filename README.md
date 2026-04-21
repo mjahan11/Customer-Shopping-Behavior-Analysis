@@ -53,7 +53,9 @@ This project provides an end-to-end analysis of customer shopping behavior. The 
 
 * **Insight 1:** Identified that "Backpacks" and "Clothing" categories have a 100% discount application rate, suggesting a need for pricing strategy review.
 * **Insight 2:** Customers in the 25-35 age bracket contribute to 40% of total revenue.
-* **Insight 3:** <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/5a2dc7a4-2c7b-454e-ace7-9024bbfc80f3" />
+
+## Power BI DashBoard:
+ <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/5a2dc7a4-2c7b-454e-ace7-9024bbfc80f3" />
 
 
 
